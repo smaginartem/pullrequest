@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Artemiy
+second_name: Smagin
